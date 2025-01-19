@@ -1,0 +1,4 @@
+ident,type,name,elevation_ft,continent,iso_country,iso_region,municipality,gps_code,iata_code,local_code,coordinates
+EHRD,medium_airport,Rotterdam The Hague Airport,-15,EU,NL,NL-ZH,Rotterdam,EHRD,RTM,,"51.956902, 4.43722"
+EHTW,medium_airport,Twente Airport,114,EU,NL,NL-OV,Enschede,EHTW,ENS,,"52.275833, 6.889167"
+EHTX,small_airport,Texel International Airport,2,EU,NL,NL-NH,De Cocksdorp,EHTX,,,"53.114962, 4.830552"

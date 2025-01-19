@@ -1,0 +1,4 @@
+config.json
+venv/
+data/airport-codes.csv
+data/*.json

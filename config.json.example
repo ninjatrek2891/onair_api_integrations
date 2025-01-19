@@ -1,0 +1,9 @@
+{
+    "base_url": "https://server1.onair.company",
+    "oa_apikey": "YOUR ONAIR API KEY HERE",
+    "oa_companyid": "YOUR COMPANY ID HERE",
+    "skip_heliports": true,
+    "csv_url": "https://raw.githubusercontent.com/datasets/airport-codes/refs/heads/main/data/airport-codes.csv",
+    "csv_file": "data/airports.csv",
+    "use_local": false
+}
