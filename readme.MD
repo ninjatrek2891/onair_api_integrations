@@ -29,7 +29,7 @@ This project integrates with the **OnAir Company API** to collect, process, and 
      {
          "base_url": "https://server1.onair.company",
          "oa_apikey": "your_api_key_here",
-         "company_id": "your_company_id_here",
+         "oa_companyid": "your_company_id_here",
          "csv_url": "https://raw.githubusercontent.com/datasets/airport-codes/main/data/airport-codes.csv",
          "csv_file": "data/airport.csv",
          "use_local": true
